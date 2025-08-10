@@ -1,6 +1,6 @@
 ## PROBLEM COVERAGE ##
 
-This problem set covered SUBSTRACTION OF 10 from any number
+This problem set covered SUBTRACTION OF 10 from any number
 
 - Newly defined words
    - TEN.LESS
