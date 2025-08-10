@@ -1,0 +1,3 @@
+: TEN.LESS    10 - ;
+
+20 TEN.LESS .

@@ -3,14 +3,14 @@
 This problem set covered
 
 - Predifined words
-    CR
-    SPACES
+    - CR
+    - SPACES
 
 - Newly defined words
-    GIFT
-    GIVER
-    NEW-LINE 
-    MESSAGE
+   - GIFT
+   - GIVER
+   - NEW-LINE 
+   - MESSAGE
     
 - Definition 
 
